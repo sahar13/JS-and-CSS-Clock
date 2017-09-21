@@ -1,4 +1,4 @@
-# JS-and-CSS-Clock
+# JS and CSS Clock
 
 Day 2 of Wes Bos's challenge to build 30 things in 30 days using vallina JavaScript.
 
