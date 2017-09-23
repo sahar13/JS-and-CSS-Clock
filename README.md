@@ -23,4 +23,4 @@
 
 <h2>Links</h2>
 <p>Wes Bos's Tutorial: www.javascript30.com</p>
-<p>Live on Codepen: https://codepen.io/pen/?editors=1010</p>
+<p>Live on Codepen: https://codepen.io/sahar13/pen/MEjNaj?editors=1010</p>
