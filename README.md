@@ -19,8 +19,8 @@
   <li>After getting the current time, the seconds, minutes and hours must be converted to degrees. Also, the CSS used to offset the degrees so that the hands point to noon must be accounted for.</li>
   <li>To wrap everything up, each hand element is rotated according to the degrees that were converted.</li>
   <li>The function gets called every second.
-</u>
+</ul>
 
-
+<h2>Links</h2>
 <p>Wes Bos's Tutorial: www.javascript30.com</p>
 <p>Live on Codepen: https://codepen.io/pen/?editors=1010</p>
